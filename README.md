@@ -1,7 +1,4 @@
 # APAN5310-Group6-Project-DreamHome-NYC
-project repo for course 5310 summer 2025, build and design database service for client from NY real estate firm
-
-# [Please refer to Up-to-Date Branch for final version of codebase for grading]
 
 Dream Homes NYC is a real estate company that assists people in buying and selling luxury homes in New York City. Our team of database specialists has been invited to address two primary challenges. First, we will transform years of archived, unstructured data—ranging from legacy spreadsheets to scanned documents—into a clean, well-organized repository that supports efficient search and analysis. Second, we will implement an automated pipeline to combine and merge multiple real-time data sources into this unified system, eliminating the need for any manual data transfers. As all of our group members are international students who have experienced the challenges of finding and renting housing in New York City, we’re excited to explore and find a solution to handle the large volume of data across properties, clients, and agents.
 
